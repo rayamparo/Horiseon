@@ -11,5 +11,5 @@ CHANGES MADE
 7.) The div element containing the the sections/boxes on the right side of the website was changed into an aside element in order to clearly separate and define this from the main element section of the website.
 8.) Just like the main element section, I have changed each div element for Lead Generation, Brand Awareness and Cost Management into section elements for easier accessibility for defining each section. I have also added alt attributes to each image in each section respectively for every image in the aside element.
 9.) Finally I have changed the div element containing class="footer" into a footer element.
-10.) All of the heading elements looked in sequential order throughout the html file and I have left it so, except for the footer heading, but I did not count that as a part of the main website content.
+10.) I have also changed the h2 element within the footer into an h3 element.
 11.) The only span element left within the code was the one located in the h1 element. I have tried multiple different elements to use rather than span and could not find a solution, even through Google.
